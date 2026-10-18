@@ -11,7 +11,7 @@ heroes, each with an ability of their own.
 ## Getting it
 
 1. **Download the installer:**
-   [AVENGIS-Rebounded-Playtest-0.1.0-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.1.0-Setup.exe)
+   [AVENGIS-Rebounded-Playtest-0.1.1-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.1.1-Setup.exe)
    (Windows, about 53 MB).
 2. **Run it, and type in the password Aven gave you.** It won't install without it. Ask Aven if you don't have it,
    and please don't pass it on.
@@ -59,7 +59,7 @@ Everything helps: what felt good, what felt off, what confused you, anything tha
 
 If the game ever crashes, it saves a report of what happened in `%LOCALAPPDATA%\AVENGIS\Rebounded Playtest\logs`.
 Closing the crash screen opens that folder. Please send Aven the report, and a line about what you were doing. The
-title shows the version in its top corner (this is **PLAYTEST 0.1.0**).
+title shows the version in its top corner (this is **PLAYTEST 0.1.1**).
 
 ## Uninstalling
 
@@ -70,4 +70,4 @@ your saves too.
 
 Made by **AVENGIS**. Music and sound are original, written for the Mega Drive's chips.
 
-<sub>Installer SHA-256: `1AC62DA75C657B550924925ACC53702C189588696ACD8AC85AD455FD8D89CF63`</sub>
+<sub>Installer SHA-256: `2DB9C40459C014856981C6CBB21A043C9E5FC610FA7E02B3347D766299577442`</sub>
