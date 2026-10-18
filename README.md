@@ -70,4 +70,4 @@ your saves too.
 
 Made by **AVENGIS**. Music and sound are original, written for the Mega Drive's chips.
 
-<sub>Installer SHA-256: `1B9FE0204FF78A9B28FC6F55A4CA17928F12B059905F2D87F9D80A0484056931`</sub>
+<sub>Installer SHA-256: `1AC62DA75C657B550924925ACC53702C189588696ACD8AC85AD455FD8D89CF63`</sub>
