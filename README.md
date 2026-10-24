@@ -3,16 +3,16 @@
 # REBOUNDED: Playtest
 
 Thanks for testing! You've been sent this because Aven trusts you with an early look at **REBOUNDED**, the whole game
-as it stands. It's a 16-bit-style brick breaker with real physics, machinery, two-screen boss stages and a crew of
-heroes, each with an ability of their own.
+as it stands. It's a 16-bit-style brick breaker with living water, two-screen stages, wardens that fight back and a
+crew of heroes, each with an ability of their own. **New in 0.2.0: play co-op ONLINE with a friend.**
 
 <p align="center"><img src="title.png" width="640" alt="The title screen"></p>
 
 ## Getting it
 
 1. **Download the installer:**
-   [AVENGIS-Rebounded-Playtest-0.1.2-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.1.2-Setup.exe)
-   (Windows, about 55 MB).
+   [AVENGIS-Rebounded-Playtest-0.2.0-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.2.0-Setup.exe)
+   (Windows, about 65 MB). Already have an older playtest? This upgrades it in place.
 2. **Run it, and type in the password Aven gave you.** It won't install without it. Ask Aven if you don't have it,
    and please don't pass it on.
 3. **If Windows says "Windows protected your PC",** click **More info**, then **Run anyway**. It's an indie game that
@@ -28,7 +28,8 @@ from a fresh game, like any new player.
 - **Five worlds**, each with its own bricks, machines and music, and a warden to beat at the end. There's a secret
   sixth world too.
 - **Endless, Mosaic, the Expedition and The Flood**: different ways to play once you're comfortable.
-- **CO-OP**: two players on one PC, including **TWIN COLOURS**, where each of you can only break your own colour.
+- **CO-OP**: two players on one PC, including **TWIN COLOURS**, where each of you can only break your own colour, or
+  **ONLINE** with a friend anywhere: the World Tour, Endless, Mosaic or the Flood, together.
 - **VERSUS**: head to head against the CPU, a friend on the same PC, or **online** with a join code.
 
 <p align="center"><img src="versus.png" width="640" alt="VERSUS"></p>
@@ -47,11 +48,20 @@ Controls can be changed in **OPTIONS**. The README that comes with the game has 
 
 ## Playing online
 
-**VERSUS**, set **AGAINST** to **ONLINE**, then **START**:
+**Co-op (new in 0.2.0):** **CO-OP** on the title, then **ONLINE**:
+- Pick the **MODE** and **YOUR HERO**. The host chooses the mode; for the World Tour, the host's hero picks the world.
+- **HOST A RUN** gives you a five-letter code. Send it to your friend.
+- **JOIN A RUN** lets you type in their code (or dial each letter on a controller).
+
+The host is player one and the one who joined is player two, each with their own controls. Either of you can pause,
+and either can **LEAVE THE RUN** from there. If the line is slow for a moment, the game waits for your friend (it
+says so) rather than guess.
+
+**Versus:** **VERSUS**, set **AGAINST** to **ONLINE**, then **START**:
 - **HOST A ROOM** gives you a five-letter code. Send it to your rival.
 - **JOIN A ROOM** lets you type in their code.
 
-You'll go straight into the match. It needs an internet connection; if anything goes wrong, the screen tells you what.
+Both need an internet connection; if anything goes wrong, the screen tells you what.
 
 ## Found something?
 
@@ -59,7 +69,7 @@ Everything helps: what felt good, what felt off, what confused you, anything tha
 
 If the game ever crashes, it saves a report of what happened in `%LOCALAPPDATA%\AVENGIS\Rebounded Playtest\logs`.
 Closing the crash screen opens that folder. Please send Aven the report, and a line about what you were doing. The
-title shows the version in its top corner (this is **PLAYTEST 0.1.2**).
+title shows the version in its top corner (this is **PLAYTEST 0.2.0**).
 
 ## Uninstalling
 
@@ -70,4 +80,4 @@ your saves too.
 
 Made by **AVENGIS**. Music and sound are original, written for the Mega Drive's chips.
 
-<sub>Installer SHA-256: `AD2BCF31DBD325214282B357927128D107C79322F1C265A34F4E483AA72B9328`</sub>
+<sub>Installer SHA-256: `7A8344908E79F3C6DE707F396F934DE8E22A70BD86AFFFFFD20E9626E35AAA37`</sub>
