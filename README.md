@@ -4,14 +4,15 @@
 
 Thanks for testing! You've been sent this because Aven trusts you with an early look at **REBOUNDED**, the whole game
 as it stands. It's a 16-bit-style brick breaker with living water, two-screen stages, wardens that fight back and a
-crew of heroes, each with an ability of their own. **New in 0.2.0: play co-op ONLINE with a friend.**
+crew of heroes, each with an ability of their own. **New in 0.2.1: the taps spill down stone stairs and the basins fill three times as fast** (and since 0.2.0, co-op
+ONLINE with a friend).
 
 <p align="center"><img src="title.png" width="640" alt="The title screen"></p>
 
 ## Getting it
 
 1. **Download the installer:**
-   [AVENGIS-Rebounded-Playtest-0.2.0-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.2.0-Setup.exe)
+   [AVENGIS-Rebounded-Playtest-0.2.1-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.2.1-Setup.exe)
    (Windows, about 65 MB). Already have an older playtest? This upgrades it in place.
 2. **Run it, and type in the password Aven gave you.** It won't install without it. Ask Aven if you don't have it,
    and please don't pass it on.
@@ -69,7 +70,7 @@ Everything helps: what felt good, what felt off, what confused you, anything tha
 
 If the game ever crashes, it saves a report of what happened in `%LOCALAPPDATA%\AVENGIS\Rebounded Playtest\logs`.
 Closing the crash screen opens that folder. Please send Aven the report, and a line about what you were doing. The
-title shows the version in its top corner (this is **PLAYTEST 0.2.0**).
+title shows the version in its top corner (this is **PLAYTEST 0.2.1**).
 
 ## Uninstalling
 
@@ -80,4 +81,4 @@ your saves too.
 
 Made by **AVENGIS**. Music and sound are original, written for the Mega Drive's chips.
 
-<sub>Installer SHA-256: `7A8344908E79F3C6DE707F396F934DE8E22A70BD86AFFFFFD20E9626E35AAA37`</sub>
+<sub>Installer SHA-256: `FF3C61BF7FBF1A8E2F7A00F007EFA24466608AB82DB2913A6177245C28B909CB`</sub>
