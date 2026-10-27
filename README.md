@@ -4,16 +4,16 @@
 
 Thanks for testing! You've been sent this because Aven trusts you with an early look at **REBOUNDED**, the whole game
 as it stands. It's a 16-bit-style brick breaker with living water, two-screen stages, wardens that fight back and a
-crew of heroes, each with an ability of their own. **New in 0.2.4: the screens hand over to each other (a wall of bricks smashed open, the
-world's water flooding in and out), Versus's animated calls and full results, and every brick on a roofed house
-reachable again** (since 0.2.3, every climb's wall moves; since 0.2.0, co-op ONLINE with a friend).
+crew of heroes, each with an ability of their own. **New in 0.2.5: Versus reworked: two modes, FEED and FRENZY (moving bars of bricks that grow back,
+powers flickering in and out), each at three intensities, and every hero's own power on C** (since 0.2.4, the screens'
+transitions and every brick reachable again; since 0.2.0, co-op ONLINE with a friend).
 
 <p align="center"><img src="title.png" width="640" alt="The title screen"></p>
 
 ## Getting it
 
 1. **Download the installer:**
-   [AVENGIS-Rebounded-Playtest-0.2.4-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.2.4-Setup.exe)
+   [AVENGIS-Rebounded-Playtest-0.2.5-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.2.5-Setup.exe)
    (Windows, about 65 MB). Already have an older playtest? This upgrades it in place.
 2. **Run it, and type in the password Aven gave you.** It won't install without it. Ask Aven if you don't have it,
    and please don't pass it on.
@@ -71,7 +71,7 @@ Everything helps: what felt good, what felt off, what confused you, anything tha
 
 If the game ever crashes, it saves a report of what happened in `%LOCALAPPDATA%\AVENGIS\Rebounded Playtest\logs`.
 Closing the crash screen opens that folder. Please send Aven the report, and a line about what you were doing. The
-title shows the version in its top corner (this is **PLAYTEST 0.2.4**).
+title shows the version in its top corner (this is **PLAYTEST 0.2.5**).
 
 ## Uninstalling
 
@@ -82,4 +82,4 @@ your saves too.
 
 Made by **AVENGIS**. Music and sound are original, written for the Mega Drive's chips.
 
-<sub>Installer SHA-256: `D30F657D57498EF980E8BAAE08C7DFC48D59D351817A69B35BF59BDD0ECEF92B`</sub>
+<sub>Installer SHA-256: `19AE260B5FFA736A9443A44185DF0253BE2D5974445D1E621B41DE16EEEBC10B`</sub>
