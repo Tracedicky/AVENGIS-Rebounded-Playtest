@@ -2,37 +2,33 @@
 
 # REBOUNDED: Playtest
 
-Thanks for testing! You've been sent this because Aven trusts you with an early look at **REBOUNDED**, the whole game
-as it stands. It's a 16-bit-style brick breaker with living water, two-screen stages, wardens that fight back and a
-crew of heroes, each with an ability of their own. **New in 0.3.0: the Brickwork Look, the whole interface rebuilt from the game's own bricks and art, short call-outs, every hint's keys shown as keys** (since 0.2.7, Emberline's clouds warm smoke; since 0.2.6, your deck
-outlined, the backdrop and the clouds between the screens calmer; since 0.2.5, Versus reworked: FEED and FRENZY, three intensities, every
-hero's own power on C; since 0.2.0, co-op ONLINE with a friend).
+Thanks for testing. This is the whole of REBOUNDED as it is right now, before it's finished: five worlds and their
+wardens (and a sixth to find), Endless, Mosaic, the Expedition, the Flood, co-op and Versus. You start from a fresh game,
+the same as a new player would.
 
 <p align="center"><img src="title.png" width="640" alt="The title screen"></p>
 
 ## Getting it
 
-1. **Download the installer:**
-   [AVENGIS-Rebounded-Playtest-0.3.0-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.3.0-Setup.exe)
-   (Windows, about 65 MB). Already have an older playtest? This upgrades it in place.
-2. **Run it, and type in the password Aven gave you.** It won't install without it. Ask Aven if you don't have it,
-   and please don't pass it on.
-3. **If Windows says "Windows protected your PC",** click **More info**, then **Run anyway**. It's an indie game that
-   isn't signed by a big publisher yet.
+1. Download the installer:
+   [AVENGIS-Rebounded-Playtest-0.4.0-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.4.0-Setup.exe)
+   (Windows, about 65 MB). If you have an older playtest, it updates it.
+2. Run it and type in the password I gave you. It won't install without it. Please don't pass it on.
+3. If Windows says "Windows protected your PC", click **More info**, then **Run anyway**. The installer isn't signed
+   yet.
 
-It installs just for you (no administrator needed), keeps its own saves, and never touches anything else. You start
-from a fresh game, like any new player.
+It installs just for you, keeps its own saves, and doesn't touch anything else.
 
 <p align="center"><img src="installer.gif" width="164" alt="The installer"></p>
 
-## What's in it
+## What's new in 0.4.0
 
-- **Five worlds**, each with its own bricks, machines and music, and a warden to beat at the end. There's a secret
-  sixth world too.
-- **Endless, Mosaic, the Expedition and The Flood**: different ways to play once you're comfortable.
-- **CO-OP**: two players on one PC, including **TWIN COLOURS**, where each of you can only break your own colour, or
-  **ONLINE** with a friend anywhere: the World Tour, Endless, Mosaic or the Flood, together.
-- **VERSUS**: head to head against the CPU, a friend on the same PC, or **online** with a join code.
+- Each menu is set in one of the worlds, in its bricks and under its own sky.
+- In play, the right-hand panel shows the world's three medals and how close the next one is.
+- A new look for the Clockwork Heart's chamber, and new medals.
+- The crew keep time on the Sound Test while you listen.
+- Fixed: a crash with Rowan's Leaf Sight in Stormglass.
+- Fixed: the save slots show the right percentage.
 
 <p align="center"><img src="versus.png" width="640" alt="VERSUS"></p>
 
@@ -40,46 +36,39 @@ from a fresh game, like any new player.
 
 | | Keyboard | Controller |
 |---|---|---|
-| Steer | Arrows / WASD / mouse | Stick / d-pad |
-| Serve, and your hero's ability | Z / Space / click | A |
-| Boost | Hold X | X |
-| Pause | P / Esc | Start |
+| Steer | arrows, WASD or the mouse | stick or d-pad |
+| Serve, and your hero's ability | Z, Space or click | A |
+| Boost | hold X | X |
+| Pause | P or Esc | Start |
 | Full screen | F11 | |
 
-Controls can be changed in **OPTIONS**. The README that comes with the game has the full list.
+You can change the controls in OPTIONS. The README that comes with the game has the full list.
 
 ## Playing online
 
-**Co-op (new in 0.2.0):** **CO-OP** on the title, then **ONLINE**:
-- Pick the **MODE** and **YOUR HERO**. The host chooses the mode; for the World Tour, the host's hero picks the world.
-- **HOST A RUN** gives you a five-letter code. Send it to your friend.
-- **JOIN A RUN** lets you type in their code (or dial each letter on a controller).
+For co-op, pick CO-OP on the title, then ONLINE. Choose the mode and your hero, then HOST A RUN to get a five-letter
+code to send your friend, or JOIN A RUN to type in theirs. The host is player one.
 
-The host is player one and the one who joined is player two, each with their own controls. Either of you can pause,
-and either can **LEAVE THE RUN** from there. If the line is slow for a moment, the game waits for your friend (it
-says so) rather than guess.
+For Versus, pick VERSUS, set AGAINST to ONLINE and press START. HOST A ROOM gives you a code to send, and JOIN A ROOM
+lets you type one in.
 
-**Versus:** **VERSUS**, set **AGAINST** to **ONLINE**, then **START**:
-- **HOST A ROOM** gives you a five-letter code. Send it to your rival.
-- **JOIN A ROOM** lets you type in their code.
-
-Both need an internet connection; if anything goes wrong, the screen tells you what.
+You both need an internet connection, and the same version of the game.
 
 ## Found something?
 
-Everything helps: what felt good, what felt off, what confused you, anything that looked wrong. Tell Aven.
+Tell me anything: what felt good, what felt off, what was confusing, anything that looked wrong.
 
-If the game ever crashes, it saves a report of what happened in `%LOCALAPPDATA%\AVENGIS\Rebounded Playtest\logs`.
-Closing the crash screen opens that folder. Please send Aven the report, and a line about what you were doing. The
-title shows the version in its top corner (this is **PLAYTEST 0.3.0**).
+If the game crashes, it saves a report in `%LOCALAPPDATA%\AVENGIS\Rebounded Playtest\logs`, and closing the crash
+screen opens that folder. Please send me the report and a line about what you were doing. The version is in the top
+corner of the title screen.
 
 ## Uninstalling
 
-Windows **Settings > Apps**, or **Uninstall AVENGIS Rebounded Playtest** in the Start menu. It asks whether to remove
-your saves too.
+Windows Settings > Apps, or "Uninstall AVENGIS Rebounded Playtest" in the Start menu. It asks whether to delete your
+saves too.
 
 ---
 
-Made by **AVENGIS**. Music and sound are original, written for the Mega Drive's chips.
+Made by Aven (AVENGIS). The music and sound were written for the Mega Drive's sound chips.
 
-<sub>Installer SHA-256: `08D6F52880822C5F2BCA34DA29371673BCB791EB65EF077A3CBECC2B335D8E79`</sub>
+<sub>Installer SHA-256: `BF0A85D33799D727C849105BBF08A26AD6B5BB3D64A0788981C1700017A81058`</sub>
