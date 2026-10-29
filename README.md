@@ -11,7 +11,7 @@ the same as a new player would.
 ## Getting it
 
 1. Download the installer:
-   [AVENGIS-Rebounded-Playtest-0.4.0-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.4.0-Setup.exe)
+   [AVENGIS-Rebounded-Playtest-0.4.1-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.4.1-Setup.exe)
    (Windows, about 65 MB). If you have an older playtest, it updates it.
 2. Run it and type in the password I gave you. It won't install without it. Please don't pass it on.
 3. If Windows says "Windows protected your PC", click **More info**, then **Run anyway**. The installer isn't signed
@@ -20,6 +20,13 @@ the same as a new player would.
 It installs just for you, keeps its own saves, and doesn't touch anything else.
 
 <p align="center"><img src="installer.gif" width="164" alt="The installer"></p>
+
+## What's new in 0.4.1
+
+- The Versus tables carry Rebounded's own touches: the logo's R at the centre spot, and the logo's bricks along the boards.
+- An event on the Expedition's map is a signpost now, and the map's question mark sits centred.
+- Heroes you haven't met yet show as their own figure in shadow, not a flat shape.
+- A reward you put on now says EQUIPPED.
 
 ## What's new in 0.4.0
 
@@ -71,4 +78,4 @@ saves too.
 
 Made by Aven (AVENGIS). The music and sound were written for the Mega Drive's sound chips.
 
-<sub>Installer SHA-256: `BF0A85D33799D727C849105BBF08A26AD6B5BB3D64A0788981C1700017A81058`</sub>
+<sub>Installer SHA-256: `89D506BF77D77C44C583C2DFC0E327F372B7AAD3B8E85970C86B244E95B119F7`</sub>
