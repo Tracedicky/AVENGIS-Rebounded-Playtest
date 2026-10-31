@@ -11,7 +11,7 @@ the same as a new player would.
 ## Getting it
 
 1. Download the installer:
-   [AVENGIS-Rebounded-Playtest-0.5.2-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.5.2-Setup.exe)
+   [AVENGIS-Rebounded-Playtest-0.5.3-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.5.3-Setup.exe)
    (Windows, about 65 MB). If you have an older playtest, it updates it.
 2. Run it and type in the password I gave you. It won't install without it. Please don't pass it on.
 3. If Windows says "Windows protected your PC", click **More info**, then **Run anyway**. The installer isn't signed
@@ -20,6 +20,13 @@ the same as a new player would.
 It installs just for you, keeps its own saves, and doesn't touch anything else.
 
 <p align="center"><img src="installer.gif" width="164" alt="The installer"></p>
+
+## What's new in 0.5.3
+
+- THE DECK PAINTER: in the WARDROBE, on the PADDLE row, press C and paint your hero's deck pixel by pixel. It keeps its shape and its shine whatever you paint; ESC keeps it and you're wearing it.
+- OPTIONS, DISPLAY: WINDOWED or FULLSCREEN, a WINDOW SIZE that stays crisp, and SHOW FPS, all remembered.
+- After a Versus match, MENU takes you to the main menu. The Expedition's guide no longer has the map's title peeking over it.
+- Smoother on slow disks: the game no longer reads its saves every frame.
 
 ## What's new in 0.5.2
 
@@ -99,4 +106,4 @@ saves too.
 
 Made by Aven (AVENGIS). The music and sound were written for the Mega Drive's sound chips.
 
-<sub>Installer SHA-256: `B757A496FF168F0D0F1BF03A51AEAC06362026DB49C295CA60DB3D70288C2CFA`</sub>
+<sub>Installer SHA-256: `D3F28AFCF70F72AAFC99335A37F374C7E3A9128D3A24863F598CC628B9534056`</sub>
