@@ -11,7 +11,7 @@ the same as a new player would.
 ## Getting it
 
 1. Download the installer:
-   [AVENGIS-Rebounded-Playtest-0.5.1-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.5.1-Setup.exe)
+   [AVENGIS-Rebounded-Playtest-0.5.2-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.5.2-Setup.exe)
    (Windows, about 65 MB). If you have an older playtest, it updates it.
 2. Run it and type in the password I gave you. It won't install without it. Please don't pass it on.
 3. If Windows says "Windows protected your PC", click **More info**, then **Run anyway**. The installer isn't signed
@@ -20,6 +20,12 @@ the same as a new player would.
 It installs just for you, keeps its own saves, and doesn't touch anything else.
 
 <p align="center"><img src="installer.gif" width="164" alt="The installer"></p>
+
+## What's new in 0.5.2
+
+- Fixed: in FIRST FLIGHT, losing the ball while the power-up fell left the lesson waiting forever. Another one drops now.
+- Fixed: the Expedition's home and its UNLOCKS screen had their headings cut off at the left.
+- The backgrounds tidied: nothing floats any more (the observatory's armillary, the lock's water wheel, the glass house's planters), the orrery casts a proper shadow, and the sea's glitter under the sun reads as glitter, not spray.
 
 ## What's new in 0.5.1
 
@@ -93,4 +99,4 @@ saves too.
 
 Made by Aven (AVENGIS). The music and sound were written for the Mega Drive's sound chips.
 
-<sub>Installer SHA-256: `CDE0E3ED0450039DAD1B4BF447A080E2242B54CFBC56799AB3E03E6E32E09A3F`</sub>
+<sub>Installer SHA-256: `B757A496FF168F0D0F1BF03A51AEAC06362026DB49C295CA60DB3D70288C2CFA`</sub>
