@@ -11,7 +11,7 @@ the same as a new player would.
 ## Getting it
 
 1. Download the installer:
-   [AVENGIS-Rebounded-Playtest-0.5.3-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.5.3-Setup.exe)
+   [AVENGIS-Rebounded-Playtest-0.6.0-Setup.exe](https://github.com/Tracedicky/AVENGIS-Rebounded-Playtest/releases/latest/download/AVENGIS-Rebounded-Playtest-0.6.0-Setup.exe)
    (Windows, about 65 MB). If you have an older playtest, it updates it.
 2. Run it and type in the password I gave you. It won't install without it. Please don't pass it on.
 3. If Windows says "Windows protected your PC", click **More info**, then **Run anyway**. The installer isn't signed
@@ -20,6 +20,11 @@ the same as a new player would.
 It installs just for you, keeps its own saves, and doesn't touch anything else.
 
 <p align="center"><img src="installer.gif" width="164" alt="The installer"></p>
+
+## What's new in 0.6.0
+
+- DECK CODES: in the deck painter, press E to copy your deck's code, paste a friend's, or type one in. Any hero's deck takes any code, and codes work in Rebounded on the phone too.
+- The deck painter is easier to find: crew select tells you it's there, the WARDROBE's PADDLE row shows C: PAINT YOUR OWN, and Z on PAINTED opens it.
 
 ## What's new in 0.5.3
 
@@ -106,4 +111,4 @@ saves too.
 
 Made by Aven (AVENGIS). The music and sound were written for the Mega Drive's sound chips.
 
-<sub>Installer SHA-256: `D3F28AFCF70F72AAFC99335A37F374C7E3A9128D3A24863F598CC628B9534056`</sub>
+<sub>Installer SHA-256: `634400C606CDD969F9EEC68E43E878FFF2B886C206A5692208FC0278943D8FC1`</sub>
